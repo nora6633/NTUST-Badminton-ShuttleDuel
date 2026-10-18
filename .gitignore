@@ -1,0 +1,17 @@
+# 機密與資料：絕對不要提交
+.env
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+.DS_Store
